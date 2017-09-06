@@ -5,11 +5,21 @@ body {
   text-align: center;
 }
 
+a {
+  color: white;
+}
+
+/* HEADER */
+
 .header {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
 
 h1 {
   font-size: 70px;
+}
+
+nav a {
+  font-size: 18px;
 }
