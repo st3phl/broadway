@@ -9,6 +9,10 @@ a {
   color: white;
 }
 
+p {
+  font-size: 14px;
+}
+
 /* HEADER */
 
 .header {
@@ -22,4 +26,14 @@ h1 {
 
 nav a {
   font-size: 18px;
+}
+
+/* MAIN SECTION */
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
 }
